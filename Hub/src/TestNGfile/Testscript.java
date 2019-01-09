@@ -108,6 +108,8 @@ logger.log(LogStatus.INFO, "Get Direction successfully");
 @BeforeClass
 public void before() {
 	  driver=Browserfile.Browserfact("chrome","http://demo1.youthhub.com");
+	  driver=Browserfile.Browserfact("chrome","http://demo1.youthhub.com");
+
 	  }
 
 
