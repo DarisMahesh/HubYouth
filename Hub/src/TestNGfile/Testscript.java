@@ -109,6 +109,7 @@ logger.log(LogStatus.INFO, "Get Direction successfully");
 public void before() {
 	  driver=Browserfile.Browserfact("chrome","http://demo1.youthhub.com");
 	  driver=Browserfile.Browserfact("chrome","http://demo1.youthhub.com");
+	  driver=Browserfile.Browserfact("chrome","http://demo1.youthhub.com");
 
 	  }
 
